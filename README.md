@@ -1,9 +1,13 @@
 # mi_primer_reporte
 
 A continuación se mostraran la ejecución del codigo: 
+
+
 `` if __name__ == "__main__" :
   print("Hola mundo")
 ``
+
+
 en diferentes programas (Python, CMD, VS CODE y Git).
 
 ###### CMD o Terminal De Windows
