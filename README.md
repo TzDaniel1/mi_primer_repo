@@ -4,8 +4,6 @@ A continuación se mostraran la ejecución del codigo:
 
 
 `` if __name__ == "__main__" :
-
-  
   print("Hola mundo")
 ``
 
